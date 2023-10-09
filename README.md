@@ -1,6 +1,27 @@
-Hi! I am Mohammed Mudassir
+# Hello, I'm Mohammed Mudassir 👋
 
-I am an Engineering graduate in CSE 2022 , interested in problem solving using data structures and algorithms , Currently working as a Software Engineer at Amagi
+I'm a software engineer passionate about learning and exploring various programming languages and technologies, including Python, Go, Ruby, C, C++, and enthusiastic about Kubernetees. This README serves as an introduction to who I am and what I'm currently working on.
 
-<p> <a href="https://www.linkedin.com/in/mohammed-mudassir-a715161a6/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a   style="height: 20px; width: 30px;" href="https://leetcode.com/md_mudassir/"target="_blank"><img alt="LeetCode" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" style="height: 28px; width: 125px;"/></a>
+## About Me
 
+- 📚 Engineering Graduate in Computer Science
+- 💼 Currently working at [Amagi Corporation](https://www.amagi.com/)
+- 🌱 I'm constantly learning and exploring new technologies
+
+## Porfolio and Coding Profiles
+
+- LeetCode: [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-brightgreen)](https://leetcode.com/md_mudassir/)
+- Medium: [![Medium](https://img.shields.io/badge/Medium-Profile-orange)](https://medium.com/@mdmudassir7)
+- CodeChef: [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-blue)](https://www.codechef.com/users/md_mudassir)
+- GeeksforGeeks: [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-yellow)](https://auth.geeksforgeeks.org/user/mdmudassir7/practice/)
+
+## Connect with Me
+
+- 💼 LinkedIn: [Mohammed Mudassir](https://www.linkedin.com/in/mdmudassir7/)
+- 📧 Email: mohammedmudassir200@gmail.com
+
+## Let's Collaborate
+
+I'm always open to collaborating on interesting projects and learning from others. If you have ideas, questions, or just want to chat, feel free to reach out!
+
+Thanks for stopping by. Happy coding! 🚀
