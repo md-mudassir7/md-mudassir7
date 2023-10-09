@@ -19,7 +19,7 @@ I'm a software engineer passionate about learning and exploring various programm
 	
 <summary><b>⚡ Github Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=md-mudassir7&show_icons=true&count_private=true&theme=dracula" alt="md-mudassir7" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-mudassir7&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dracula" alt="md-mudassir7" align = "center"/></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-mudassir7&show_icons=true&locale=en&layout=compact&theme=dracula" alt="md-mudassir7" align = "center"/></p>
 
 <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=md-mudassir7&theme=dracula&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="md-mudassir7" /></p>
