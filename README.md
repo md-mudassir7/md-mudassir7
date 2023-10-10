@@ -34,8 +34,4 @@ I'm a software engineer passionate about learning and exploring various programm
 - 💼 LinkedIn: [Mohammed Mudassir](https://www.linkedin.com/in/mdmudassir7/)
 - 📧 Email: mohammedmudassir200@gmail.com
 
-## Let's Collaborate
-
-I'm always open to collaborating on interesting projects and learning from others. If you have ideas, questions, or just want to chat, feel free to reach out!
-
 Thanks for stopping by. Happy coding! 🚀
