@@ -1,4 +1,4 @@
-# Hello, I'm Mohammed Mudassir 👋
+# Hello, I'm Mudassir 👋
 
 I'm a software engineer passionate about learning and exploring various programming languages and technologies, including Python, Go, Ruby, C, C++, and enthusiastic about Kubernetees. This README serves as an introduction to who I am and what I'm currently working on.
 
