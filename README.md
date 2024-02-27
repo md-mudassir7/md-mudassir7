@@ -1,6 +1,4 @@
-# Hello, I'm Mudassir 👋
-
-I'm a software engineer passionate about learning and exploring various programming languages and technologies, including Python, Go, Ruby, C, C++, and enthusiastic about Kubernetees.
+software engineer passionate about learning and exploring various programming languages and technologies, including Python, Go, Ruby, C, C++, and enthusiastic about Kubernetees.
 
 ## Porfolio and Coding Profiles
 
