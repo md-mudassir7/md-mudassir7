@@ -1,4 +1,4 @@
-software engineer passionate about learning and exploring various programming languages and technologies, including Python, Go, Ruby, C, C++, and enthusiastic about Kubernetees.
+Software engineer passionate about learning and exploring various programming languages and technologies, including Python, Go, Ruby, C, C++, and enthusiastic about Kubernetees.
 
 ## Porfolio and Coding Profiles
 
